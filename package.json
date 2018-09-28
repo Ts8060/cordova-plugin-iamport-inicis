@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamport/iamport-ionic-inicis.git"
+    "url": "git+https://github.com/Ts8060/cordova-plugin-iamport-inicis.git"
   },
   "keywords": [
     "payment",
